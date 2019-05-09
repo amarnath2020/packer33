@@ -8,7 +8,7 @@
       "secret_key": "5xzirHwIDUJ5VLzW48Tt81CK8Z5zQOGgV29dhQ1B",
       "region": "us-west-2",
       "ssh_username": "ubuntu",
-      "ami_name": "hello"
+      "ami_name": "hello123"
     }
     
     ]
